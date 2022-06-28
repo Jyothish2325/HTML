@@ -1,0 +1,10 @@
+h1{
+    background-color: black;
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    background-color: rgb(132, 255, 0);
+    font-weight:bolder;
+    font-style:italic;
+}
